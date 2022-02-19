@@ -24,8 +24,7 @@ This is a simple  application built off Django (including the Django REST Framew
     2.Install the dependencies: npm install
     3.run the server : npm start
   #### Running example
-     ![Screenshot from 2022-02-19 21-14-03](https://user-images.githubusercontent.com/56828148/154817782-c879fafa-0145-4b81-b782-4c7aff376826.png)
-     ![Screenshot from 2022-02-19 21-17-17](https://user-images.githubusercontent.com/56828148/154817796-ef0fe154-f6e6-46d4-b8ec-4d8e504ac091.png)
+  ![Screenshot from 2022-02-19 21-17-17](https://user-images.githubusercontent.com/56828148/154817796-ef0fe154-f6e6-46d4-b8ec-4d8e504ac091.png)
 
 ## Run it
 You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
