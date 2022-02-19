@@ -19,7 +19,7 @@ This is a simple  application built off Django (including the Django REST Framew
     4.Install the dependencies: pipenv install -r requirements.txt 
     5.run django server: python manage.py runserver
   
-#### II) frontend (React typescript)
+#### II) frontend (React)
     1.Navigate into the frontend directory: cd famoco/front-end-react/register-user
     2.Install the dependencies: npm install
     3.run the server : npm start
