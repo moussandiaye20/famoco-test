@@ -51,7 +51,7 @@ Run this command to start the frontend development server in the frontend direct
     ![Screenshot from 2022-02-19 21-33-06](https://user-images.githubusercontent.com/56828148/154818276-6d773de4-9a5f-425c-af69-7dfc29ea6e82.png)
 #### 4. Logout 
         POST / http://127.0.0.1:8000/users-management/logout
-      ![Screenshot from 2022-02-19 21-33-29](https://user-images.githubusercontent.com/56828148/154818286-038f433b-152b-45cd-9970-313f512abde1.png)
+   ![Screenshot from 2022-02-19 21-33-29](https://user-images.githubusercontent.com/56828148/154818286-038f433b-152b-45cd-9970-313f512abde1.png)
   
 # Creator Credit
 
