@@ -38,11 +38,11 @@ Run this command to start the frontend development server in the frontend direct
 #### 1.Register: 
     POST / http://127.0.0.1:8000/users-management/create
       body:{"username":"your usename","first_name":"your firstname","last_name":"your lastname","password":"your password"}
-    ![Screenshot from 2022-02-19 21-31-48](https://user-images.githubusercontent.com/56828148/154818239-442fd22b-4bb4-450a-a73b-c8bb103df8f1.png)
+   ![Screenshot from 2022-02-19 21-31-48](https://user-images.githubusercontent.com/56828148/154818239-442fd22b-4bb4-450a-a73b-c8bb103df8f1.png)
 #### 2. Login
         POST / http://127.0.0.1:8000/users-management/login
                 body : {"username":"your username","password":"your password"}
-    ![Screenshot from 2022-02-19 21-32-18](https://user-images.githubusercontent.com/56828148/154818249-06a7bcdf-20e8-44f0-b642-478478032a63.png)
+   ![Screenshot from 2022-02-19 21-32-18](https://user-images.githubusercontent.com/56828148/154818249-06a7bcdf-20e8-44f0-b642-478478032a63.png)
   
 #### 3. Authenticated
     GET / http://127.0.0.1:8000/users-management/user
