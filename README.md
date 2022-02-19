@@ -23,8 +23,7 @@ This is a simple  application built off Django (including the Django REST Framew
     1.Navigate into the frontend directory: cd famoco/front-end-react/register-user
     2.Install the dependencies: npm install
     3.run the server : npm start
-  #### Running example
-  ![Screenshot from 2022-02-19 21-17-17](https://user-images.githubusercontent.com/56828148/154817796-ef0fe154-f6e6-46d4-b8ec-4d8e504ac091.png)
+  #### Running example 
   ![Screenshot from 2022-02-19 21-14-03](https://user-images.githubusercontent.com/56828148/154817851-a665be46-2c6f-4ff5-97b3-c6f83d214b7f.png)
 
 ## Run it
