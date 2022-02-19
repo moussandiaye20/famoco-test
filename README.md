@@ -1,4 +1,4 @@
-
+![images](https://user-images.githubusercontent.com/56828148/154818408-d9371fa3-543b-4ac8-aa7f-51e87d54143c.png)
 ## Technical test for full stack developer -  Internship (Famoco)
 ## Introduction
 This is a simple  application built off Django (including the Django REST Framework for API CRUD operations),  React and boostrap.
